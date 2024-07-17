@@ -124,13 +124,13 @@ NEXT_PUBLIC_CRISP_WEBSITE_ID=xxxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx
 
 ## :camera: Screenshots:
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![Modern UI/UX](/components/images/img1.png "Modern UI/UX")
 
-![Conversation Page](/.github/images/img2.png "Conversation Page")
+![Conversation Page](/components/images/img2.png "Conversation Page")
 
-![Image Generation](/.github/images/img3.png "Image Generation")
+![Image Generation](/components/images/img3.png "Image Generation")
 
-![Code Generation](/.github/images/img4.png "Code Generation")
+![Code Generation](/components/images/img4.png "Code Generation")
 
 ## :gear: Tech Stack
 
