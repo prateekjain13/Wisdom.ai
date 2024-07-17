@@ -2,16 +2,9 @@
 
 # Genius - A Modern Next.js 14 SaaS AI Platform.
 
-![Genius - A Modern Next.js 14 SaaS AI Platform.](/.github/images/img_main.png "Genius - A Modern Next.js 14 SaaS AI Platform.")
+![Genius - A Modern Next.js 14 SaaS AI Platform.](/components/images/img_main.png "Genius - A Modern Next.js 14 SaaS AI Platform.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/genius-ai?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/genius-ai/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/genius-ai/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/genius-ai?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/genius-ai/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/genius-ai?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/genius-ai/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/genius-ai?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/genius-ai/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/genius-ai?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/genius-ai/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b63626db-a322-49c1-b8d7-60ab157e7da6/deploy-status)](https://ai-genius.netlify.app/ "Netlify Status")
+
 
 <!-- Table of Contents -->
 
@@ -138,7 +131,7 @@ NEXT_PUBLIC_CRISP_WEBSITE_ID=xxxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx
 
 ## :wrench: Stats
 
-[![Stats for Genius](/.github/images/stats.svg "Stats for Genius")](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fai-genius.netlify.app%2F "Stats for Genius")
+[![Stats for Genius](/components/images/stats.svg "Stats for Genius")](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fai-genius.netlify.app%2F "Stats for Genius")
 
 ## :gem: Acknowledgements
 
